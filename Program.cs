@@ -18,12 +18,17 @@ namespace Hello_World
             string? quit;
             while(play){
                 string? userInput;
-                int r;
                 Console.Write("What do you choose?\n\n Rock/ Paper/ Scissors? ");
                 userInput = Console.ReadLine();
-                Random rnd = new Random();
-                r = rnd.Next(1, 4);
-                //systemInput = "alain";
+                
+                while (string.IsNullOrEmpty(userInput))
+                {
+                    Console.WriteLine("Your option can't be empty! Select one option once more");
+                    userInput = Console.ReadLine();
+                }
+
+                Console.WriteLine(string.Format("You have selected the option {0}",userInput));
+
                 switch (typeof(systemInput).GetRandomEnumValue())
                 {
                     case systemInput.Rock:
