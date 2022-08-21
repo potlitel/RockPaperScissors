@@ -1,0 +1,15 @@
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\ref\RockPaperScissors.dll
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+G:\Trabajo\GitProjects\Real-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache

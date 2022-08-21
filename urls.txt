@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/3132126/how-do-i-select-a-random-value-from-an-enumeration
+https://docs.microsoft.com/en-us/dotnet/api/system.enum.tryparse?view=netframework-4.7.2#code-try-9
+https://stackoverflow.com/questions/54720336/c-sharp-enum-using-switch-statement-how-to-use-user-input
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0
+https://www.delftstack.com/es/howto/csharp/csharp-rock-paper-scissors/
+https://algoritmosurgentes.com/algoritmo-en-lenguaje-c-sharp/piedra-papel-o-tijera
+https://dotnetfiddle.net/E1Ispm
