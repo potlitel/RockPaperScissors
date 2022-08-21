@@ -27,7 +27,12 @@ namespace Hello_World
                     userInput = Console.ReadLine();
                 }
 
-                Console.WriteLine(string.Format("You have selected the option {0}",userInput));
+                if (Enum.IsDefined(typeof(systemInput), userInput)) {
+                    Console.WriteLine(string.Format("\u263A You have selected the option {0}",userInput));
+                }
+                else{
+                    Console.WriteLine(string.Format("Invalid option {0}",userInput));
+                }
 
                 switch (typeof(systemInput).GetRandomEnumValue())
                 {
