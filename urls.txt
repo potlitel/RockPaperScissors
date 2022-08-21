@@ -5,3 +5,11 @@ https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?p
 https://www.delftstack.com/es/howto/csharp/csharp-rock-paper-scissors/
 https://algoritmosurgentes.com/algoritmo-en-lenguaje-c-sharp/piedra-papel-o-tijera
 https://dotnetfiddle.net/E1Ispm
+https://stackoverflow.com/questions/59235134/check-is-the-input-in-enum
+https://stackoverflow.com/questions/25687845/how-do-i-match-a-user-input-string-to-anything-and-everything-that-means-localho
+https://stackoverflow.com/questions/70400425/is-there-a-way-to-match-user-input-string-to-string-in-a-list-and-return-the-ind
+https://codeasy.net/lesson/input_validation
+https://www.sololearn.com/Discuss/1637053/c-how-to-write-emoji-in-console
+https://code.sololearn.com/cklUIcf7MPwG/?ref=app
+
+https://docs.microsoft.com/en-us/dotnet/api/system.console.clear?view=net-6.0 (to practices)
